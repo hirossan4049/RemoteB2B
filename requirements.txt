@@ -1,0 +1,4 @@
+fastapi==0.100.0
+python-rtmidi==1.5.8
+simplecoremidi
+uvicorn==0.22.0
